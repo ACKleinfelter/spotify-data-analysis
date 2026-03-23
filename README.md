@@ -12,7 +12,7 @@ Analyzing audio features of popular tracks on Spotify with Cameron Carter.
 - Tracks with licesnsed videos had 52% more Spotify streams on average.
 
 ## Plot Example
-![Vibes vs Tempo](Vibes vs. Tempo.png)
+![Vibes vs Tempo](Vibes_vs_Tempo.png)
 
 ## Data Source
 [Kaggle - Spotify and Youtube](https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube)
