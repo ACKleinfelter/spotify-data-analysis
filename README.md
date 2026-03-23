@@ -11,5 +11,8 @@ Analyzing audio features of popular tracks on Spotify with Cameron Carter.
 - Higher tempos correlate with higher energy and valence while middling tempos correlate with danceability and loudness. Slow tempos correlate with acousticness and instrumentalness. Liveness seemed unaffected by tempo, while speechiness seemed higher in tracks with notably high or low tempos.
 - Tracks with licesnsed videos had 52% more Spotify streams on average.
 
+## Plot Example
+![Vibes vs Tempo](Vibes_vs_Tempo.png)
+
 ## Data Source
 [Kaggle - Spotify and Youtube](https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube)
