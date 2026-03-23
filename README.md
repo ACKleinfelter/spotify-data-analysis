@@ -1,5 +1,5 @@
 # spotify-data-analysis
-Analyzing audio features of popular tracks on Spotify.
+Analyzing audio features of popular tracks on Spotify with Cameron Carter.
 
 ## Questions
 - How does track length affect energy and tempo?
